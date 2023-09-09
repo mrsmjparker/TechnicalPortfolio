@@ -1,7 +1,8 @@
 # Technical Portfolio - Updated September 2023
-### I am seeking my dream job that includes one or more of the following: Technical Training, Technical Writing (including How-To Guides, Videos, Cheat Sheets, and more), Document Management, and People Management/Mentoring. Below is a collection of writing samples for anyone who wants a high-energy, motivated, loyal, experienced, people person to add value to their company. I live in Mesa, AZ, but currently work East Coast hours, and am willing to work in any Time Zone. My experience has taken me all over the world to teach and present at Microsoft Conferences in front of thousands, and also from tiny, virtual classrooms.  The thing I am most proud of is that I have elevated people in every way possible through the use of technology.
+### I am seeking my dream job that includes one or more of the following: Technical Training, Technical Writing (including How-To Guides, Videos, Cheat Sheets, and more), Document Management, and People Management/Mentoring. Below is a collection of writing 
+### samples for anyone who wants a high-energy, motivated, loyal, experienced, people person to add value to their company. I live in Mesa, AZ, but currently work East Coast hours, and am willing to work in any Time Zone. My experience has taken me all over the ### world to teach and present at Microsoft Conferences in front of thousands, and also from tiny, virtual classrooms.  The thing I am most proud of is that I have elevated people in every way possible through the use of technology.
 
-If you wish to see some samples of my work, please keep reading.  If you want me to provide a project or writing sample, I can be reached at mj.parker@hotmail.com
+### If you wish to see some samples of my work, please keep reading.  If you want me to provide a project or writing sample, I can be reached at mj.parker@hotmail.com
 
 
 
