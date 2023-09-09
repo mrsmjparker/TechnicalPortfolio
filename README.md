@@ -2,7 +2,8 @@
 **I am seeking my lifelong dream job that includes (but is not limited to) one or more of the following:</br>
 -Technical Training</br>
 -Technical Writing (including How-To Guides, Videos, Cheat Sheets, and more)</br>
--Collaboration with fellow Internal and External programmers for the purposes of documentation of code, APIs, SOPs, BRDs
+-Collaboration with fellow Internal and External programmers for the purposes of documentation of code, APIs, SOPs, and BRDs</br>
+-Learn and Turn - my personal coined phrase for learning fast and turning knowledge around to others</br>
 -Cloud Administration (including Azure, AWS, and SharePoint/365)
 -Document Management</br>
 -Troubleshooting & Testing code, including deployments</br>
