@@ -2,11 +2,13 @@
 **I am seeking my lifelong dream job that includes (but is not limited to) one or more of the following:</br>
 -Technical Training</br>
 -Technical Writing (including How-To Guides, Videos, Cheat Sheets, and more)</br>
+-Collaboration with fellow Internal and External programmers for the purposes of documentation of code, APIs, SOPs, BRDs
+-Cloud Administration (including Azure, AWS, and SharePoint/365)
 -Document Management</br>
--Troubleshooting & Testing</br>
+-Troubleshooting & Testing code, including deployments</br>
 -People Management and Mentoring. </br>
 </br>
-Below is a collection of writing samples for anyone who wants a high-energy, motivated, loyal, experienced, people person to add value to their company. I live in Mesa, AZ, but currently work East Coast hours, and am willing to work in any Time Zone. My experience has taken me all over the world to teach and present at Microsoft Conferences in front of thousands, and also from tiny, virtual classrooms.  The thing I am most proud of is that I have elevated people in every way possible through the use of technology.**
+Below is a collection of writing samples for anyone who wants a high-energy, motivated, loyal, experienced, people person to add value to their company. I live in Mesa, AZ, but currently work East Coast hours, and am willing to work in any Time Zone. My experience has taken me all over the world to teach and present at Microsoft Conferences in front of thousands, and also to tiny, virtual classrooms. As my profile says "I can make high-tech clear to anyone - even my Mom".  The thing I am most proud of is that I have elevated humankind in every way possible through the use of technology.**
 
 **Work Samples 
 ---
