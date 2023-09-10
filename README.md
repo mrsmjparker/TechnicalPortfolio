@@ -25,26 +25,26 @@ Work Samples
 </br>
 **Cheat Sheet:**<br/>
 -https://1drv.ms/p/s!AiYfY3JzPgqij_EQFR5n4lMUJvZDgQ?e=mDuHUV
-</br>
+</br><br/>
 **How-Tos:**<br/>
 -https://1drv.ms/w/s!AiYfY3JzPgqij_EKDCxeWhlu7jaLHw?e=iJt17Z
 -https://1drv.ms/w/s!AiYfY3JzPgqij_EJoxwmnZ5H1TQ0QQ?e=Qnrba3
-</br>
+</br><br/>
 **SOP:**<br/>
 -https://1drv.ms/w/s!AiYfY3JzPgqij_EOSpWZWBzjWZLjvQ?e=yIK7IK
-</br>
+</br><br/>
 **Inventory Management:**<br/>
 -https://1drv.ms/b/s!AiYfY3JzPgqij_ESLkUH5_U0Bzb_pw?e=yiWtoj
-<br/>
+<br/><br/>
 **Network Diagrams:**<br/>
 -https://1drv.ms/b/s!AiYfY3JzPgqij_EUjwarQt3UdJF25A?e=WwuRTc
-<br/>
+<br/><br/>
 **Workflow/Process:**<br/>
 -https://1drv.ms/p/s!AiYfY3JzPgqij_EL9MyYLZazFzA72A?e=4PuBiL
-<br/>
+<br/></br>
 
-**Published Work - Technical**
-Exam Ref AZ-304 Microsoft Azure Architect Design 1st Edition
+## Published Work - Technical
+**Exam Ref AZ-304 Microsoft Azure Architect Design 1st Edition**
 https://www.amazon.com/AZ-304-Microsoft-Azure-Architect-Design/dp/0137268890/ref=sr_1_1?crid=1PGPK4WBL48UM&keywords=azure+mj+parker&qid=1694283138&sprefix=azure+mj+parker%2Caps%2C142&sr=8-1
 
 
