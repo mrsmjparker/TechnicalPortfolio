@@ -44,7 +44,7 @@ Work Samples
 <br/></br>
 
 ## Published Work - Technical
-**Exam Ref AZ-304 Microsoft Azure Architect Design 1st Edition**
+**Exam Ref AZ-304 Microsoft Azure Architect Design 1st Edition**<br/>
 https://www.amazon.com/AZ-304-Microsoft-Azure-Architect-Design/dp/0137268890/ref=sr_1_1?crid=1PGPK4WBL48UM&keywords=azure+mj+parker&qid=1694283138&sprefix=azure+mj+parker%2Caps%2C142&sr=8-1
 
 
