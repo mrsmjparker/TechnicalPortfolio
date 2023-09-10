@@ -15,35 +15,34 @@ Below is a collection of writing samples for anyone who wants a high-energy, mot
 Work Samples 
 ---
 </br>
-Training:
-Agile:
+Training:</br><br/>
+Agile:<b/>
 -https://1drv.ms/p/s!AiYfY3JzPgqij_EWCUxPWtjlwJAM0Q?e=KOKCgZ
 
-Apps:
-https://1drv.ms/w/s!AiYfY3JzPgqij_EMV8n6ffjiJn7CMw?e=MycjSw
-https://1drv.ms/p/s!AiYfY3JzPgqij_EPMUqhJW0JhW518Q?e=hd31CK
-https://1drv.ms/p/s!AiYfY3JzPgqij_EHXn3wkuMIKr89XA?e=M5gTEr
-
+Apps:<br/>
+-https://1drv.ms/w/s!AiYfY3JzPgqij_EMV8n6ffjiJn7CMw?e=MycjSw
+-https://1drv.ms/p/s!AiYfY3JzPgqij_EPMUqhJW0JhW518Q?e=hd31CK
+-https://1drv.ms/p/s!AiYfY3JzPgqij_EHXn3wkuMIKr89XA?e=M5gTEr
+</br>
 Cheat Sheet:
-https://1drv.ms/p/s!AiYfY3JzPgqij_EQFR5n4lMUJvZDgQ?e=mDuHUV
-
+-https://1drv.ms/p/s!AiYfY3JzPgqij_EQFR5n4lMUJvZDgQ?e=mDuHUV
+</br>
 How-Tos:
-https://1drv.ms/w/s!AiYfY3JzPgqij_EKDCxeWhlu7jaLHw?e=iJt17Z
-https://1drv.ms/w/s!AiYfY3JzPgqij_EJoxwmnZ5H1TQ0QQ?e=Qnrba3
-
-
+-https://1drv.ms/w/s!AiYfY3JzPgqij_EKDCxeWhlu7jaLHw?e=iJt17Z
+-https://1drv.ms/w/s!AiYfY3JzPgqij_EJoxwmnZ5H1TQ0QQ?e=Qnrba3
+</br>
 SOP:
-https://1drv.ms/w/s!AiYfY3JzPgqij_EOSpWZWBzjWZLjvQ?e=yIK7IK
-
+-https://1drv.ms/w/s!AiYfY3JzPgqij_EOSpWZWBzjWZLjvQ?e=yIK7IK
+</br>
 Inventory Management:
-https://1drv.ms/b/s!AiYfY3JzPgqij_ESLkUH5_U0Bzb_pw?e=yiWtoj
-
+-https://1drv.ms/b/s!AiYfY3JzPgqij_ESLkUH5_U0Bzb_pw?e=yiWtoj
+<br/>
 Network Diagrams:
-https://1drv.ms/b/s!AiYfY3JzPgqij_EUjwarQt3UdJF25A?e=WwuRTc
-
+-https://1drv.ms/b/s!AiYfY3JzPgqij_EUjwarQt3UdJF25A?e=WwuRTc
+<br/>
 Workflow/Process:
-https://1drv.ms/p/s!AiYfY3JzPgqij_EL9MyYLZazFzA72A?e=4PuBiL
-
+-https://1drv.ms/p/s!AiYfY3JzPgqij_EL9MyYLZazFzA72A?e=4PuBiL
+<br/>
 
 **Published Work - Technical**
 Exam Ref AZ-304 Microsoft Azure Architect Design 1st Edition
