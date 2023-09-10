@@ -15,7 +15,7 @@ Below is a collection of writing samples for anyone who wants a high-energy, mot
 Work Samples 
 ---
 </br>
-Training:</br><br/>
+### Training:</br><br/>
 **Agile:**<b/>
 -https://1drv.ms/p/s!AiYfY3JzPgqij_EWCUxPWtjlwJAM0Q?e=KOKCgZ
 
