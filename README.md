@@ -15,14 +15,36 @@ Below is a collection of writing samples for anyone who wants a high-energy, mot
 Work Samples 
 ---
 </br>
+Training:
+Agile:
+https://1drv.ms/p/s!AiYfY3JzPgqij_EWCUxPWtjlwJAM0Q?e=KOKCgZ
+https://1drv.ms/w/s!AiYfY3JzPgqij_EMV8n6ffjiJn7CMw?e=MycjSw
+
+
+Cheat Sheet:
+https://1drv.ms/p/s!AiYfY3JzPgqij_EQFR5n4lMUJvZDgQ?e=mDuHUV
+
+How-Tos:
+https://1drv.ms/w/s!AiYfY3JzPgqij_EKDCxeWhlu7jaLHw?e=iJt17Z
+https://1drv.ms/w/s!AiYfY3JzPgqij_EJoxwmnZ5H1TQ0QQ?e=Qnrba3
+
+
+SOP:
+https://1drv.ms/w/s!AiYfY3JzPgqij_EOSpWZWBzjWZLjvQ?e=yIK7IK
+
+Inventory Management:
+https://1drv.ms/b/s!AiYfY3JzPgqij_ESLkUH5_U0Bzb_pw?e=yiWtoj
+
+Network Diagrams:
+https://1drv.ms/b/s!AiYfY3JzPgqij_EUjwarQt3UdJF25A?e=WwuRTc
+
+Workflow/Process:
+https://1drv.ms/p/s!AiYfY3JzPgqij_EL9MyYLZazFzA72A?e=4PuBiL
 
 
 **Published Work - Technical**
 Exam Ref AZ-304 Microsoft Azure Architect Design 1st Edition
 https://www.amazon.com/AZ-304-Microsoft-Azure-Architect-Design/dp/0137268890/ref=sr_1_1?crid=1PGPK4WBL48UM&keywords=azure+mj+parker&qid=1694283138&sprefix=azure+mj+parker%2Caps%2C142&sr=8-1
-
-
-https://1drv.ms/p/s!AiYfY3JzPgqij_EWCUxPWtjlwJAM0Q?e=1pUAhW
 
 
 
