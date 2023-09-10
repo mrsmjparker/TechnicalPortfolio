@@ -19,7 +19,7 @@ Work Samples
 -https://1drv.ms/p/s!AiYfY3JzPgqij_EWCUxPWtjlwJAM0Q?e=KOKCgZ
 
 **Apps:**<br/>
-Internal App (Company Closed:
+Internal App (Company Closed):<br/>
 -https://1drv.ms/w/s!AiYfY3JzPgqij_EMV8n6ffjiJn7CMw?e=MycjSw<br/>
 
 -https://1drv.ms/p/s!AiYfY3JzPgqij_EPMUqhJW0JhW518Q?e=hd31CK<br/>
