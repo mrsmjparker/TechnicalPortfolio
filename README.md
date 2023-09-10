@@ -1,5 +1,5 @@
 # Technical Portfolio - Updated September 2023
-**I am seeking my lifelong dream job that includes (but is not limited to) one or more of the following:</br>
+**I am seeking my lifelong dream job that includes (but is not limited to) one or more of the following:**</br>
 -Manager/Director of Technical Training</br>
 -Technical Writing (including How-To Guides, Videos, Cheat Sheets, and more)</br>
 -Collaboration with fellow Internal and External programmers for the purposes of documentation of code, APIs, SOPs, and BRDs</br>
