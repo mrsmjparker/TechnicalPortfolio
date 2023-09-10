@@ -19,9 +19,9 @@ Work Samples
 -https://1drv.ms/p/s!AiYfY3JzPgqij_EWCUxPWtjlwJAM0Q?e=KOKCgZ
 
 **Apps:**<br/>
--https://1drv.ms/w/s!AiYfY3JzPgqij_EMV8n6ffjiJn7CMw?e=MycjSw
--https://1drv.ms/p/s!AiYfY3JzPgqij_EPMUqhJW0JhW518Q?e=hd31CK
--https://1drv.ms/p/s!AiYfY3JzPgqij_EHXn3wkuMIKr89XA?e=M5gTEr
+-https://1drv.ms/w/s!AiYfY3JzPgqij_EMV8n6ffjiJn7CMw?e=MycjSw</br?
+-https://1drv.ms/p/s!AiYfY3JzPgqij_EPMUqhJW0JhW518Q?e=hd31CK<br/>
+-https://1drv.ms/p/s!AiYfY3JzPgqij_EHXn3wkuMIKr89XA?e=M5gTEr<br/>
 </br>
 **Cheat Sheet:**<br/>
 -https://1drv.ms/p/s!AiYfY3JzPgqij_EQFR5n4lMUJvZDgQ?e=mDuHUV
