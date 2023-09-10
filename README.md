@@ -18,28 +18,28 @@ Work Samples
 **Agile:**<br/>
 -https://1drv.ms/p/s!AiYfY3JzPgqij_EWCUxPWtjlwJAM0Q?e=KOKCgZ
 
-Apps:<br/>
+**Apps:**<br/>
 -https://1drv.ms/w/s!AiYfY3JzPgqij_EMV8n6ffjiJn7CMw?e=MycjSw
 -https://1drv.ms/p/s!AiYfY3JzPgqij_EPMUqhJW0JhW518Q?e=hd31CK
 -https://1drv.ms/p/s!AiYfY3JzPgqij_EHXn3wkuMIKr89XA?e=M5gTEr
 </br>
-Cheat Sheet:<br/>
+**Cheat Sheet:**<br/>
 -https://1drv.ms/p/s!AiYfY3JzPgqij_EQFR5n4lMUJvZDgQ?e=mDuHUV
 </br>
-How-Tos:<br/>
+**How-Tos:**<br/>
 -https://1drv.ms/w/s!AiYfY3JzPgqij_EKDCxeWhlu7jaLHw?e=iJt17Z
 -https://1drv.ms/w/s!AiYfY3JzPgqij_EJoxwmnZ5H1TQ0QQ?e=Qnrba3
 </br>
-SOP:<br/>
+**SOP:**<br/>
 -https://1drv.ms/w/s!AiYfY3JzPgqij_EOSpWZWBzjWZLjvQ?e=yIK7IK
 </br>
-Inventory Management:<br/>
+**Inventory Management:**<br/>
 -https://1drv.ms/b/s!AiYfY3JzPgqij_ESLkUH5_U0Bzb_pw?e=yiWtoj
 <br/>
-Network Diagrams:
+**Network Diagrams:**<br/>
 -https://1drv.ms/b/s!AiYfY3JzPgqij_EUjwarQt3UdJF25A?e=WwuRTc
 <br/>
-Workflow/Process:<br/>
+**Workflow/Process:**<br/>
 -https://1drv.ms/p/s!AiYfY3JzPgqij_EL9MyYLZazFzA72A?e=4PuBiL
 <br/>
 
