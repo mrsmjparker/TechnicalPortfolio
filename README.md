@@ -16,7 +16,7 @@ Work Samples
 ---
 </br>
 Training:</br><br/>
-Agile:<b/>
+**Agile:**<b/>
 -https://1drv.ms/p/s!AiYfY3JzPgqij_EWCUxPWtjlwJAM0Q?e=KOKCgZ
 
 Apps:<br/>
