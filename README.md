@@ -21,8 +21,9 @@ Work Samples
 **Apps:**<br/>
 Internal App (Company Closed):<br/>
 -https://1drv.ms/w/s!AiYfY3JzPgqij_EMV8n6ffjiJn7CMw?e=MycjSw<br/>
-
+Teams Quick Overview:<br/>
 -https://1drv.ms/p/s!AiYfY3JzPgqij_EPMUqhJW0JhW518Q?e=hd31CK<br/>
+
 -https://1drv.ms/p/s!AiYfY3JzPgqij_EHXn3wkuMIKr89XA?e=M5gTEr<br/>
 
 **Cheat Sheet:**<br/>
