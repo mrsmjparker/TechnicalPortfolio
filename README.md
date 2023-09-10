@@ -31,7 +31,8 @@ Internal App (Company Closed):<br/>
 -https://1drv.ms/p/s!AiYfY3JzPgqij_EQFR5n4lMUJvZDgQ?e=mDuHUV
 </br><br/>
 **How-Tos:**<br/>
--https://1drv.ms/w/s!AiYfY3JzPgqij_EKDCxeWhlu7jaLHw?e=iJt17Z
+Outlook Desktop/Outlook Web:<br/>
+-https://1drv.ms/w/s!AiYfY3JzPgqij_EKDCxeWhlu7jaLHw?e=iJt17Z<br/>
 -https://1drv.ms/w/s!AiYfY3JzPgqij_EJoxwmnZ5H1TQ0QQ?e=Qnrba3
 </br><br/>
 **SOP:**<br/>
