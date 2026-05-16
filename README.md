@@ -1,4 +1,4 @@
-# Technical Portfolio - UpdateD May 2026
+# Technical Portfolio - Updated May 2026
 **I am seeking my lifelong dream job that includes (but is not limited to) one or more of the following:**</br>
 -Manager/Director of Technical Training</br>
 -Technical Writing (including How-To Guides, Videos, Cheat Sheets, and more)</br>
